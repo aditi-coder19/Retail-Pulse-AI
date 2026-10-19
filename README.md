@@ -55,6 +55,12 @@ The dashboards are designed to help users explore sales patterns, customer purch
 ## 🎓 Learning Outcomes
 This project provided practical experience in data cleaning, data modeling, DAX calculations, KPI development, interactive dashboard design, and retail business analysis.
 
+## 📂 Dataset and Project Files
+
+The dataset and large project files are hosted separately on Google Drive due to GitHub's file size limitations.
+
+- **Dataset:** [https://docs.google.com/spreadsheets/d/1PIxZDKfVMcCjmWlXXrEEfeTmKelKpKb2/edit?usp=drive_link&ouid=117750135345855550933&rtpof=true&sd=true]
+
 ## 👩‍💻 Project Type
 Data Analytics | Business Intelligence | Power BI
 
